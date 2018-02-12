@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test sQuery</title>
+<script type="text/javascript" src="sQuery.js"></script>
+<script type="text/javascript">
+function $(e){
+	return new sQuery(e);
+}
+window.onload = function(){
+	$("#pOne").on("mouseover",function(){
+		$(this).html("Tadaah!!");
+	});
+	$(".title").color("green").on("click",function(){
+		$(this).color("black");
+	});
+	$("#pTwo").on("click",function(){
+		$(this).toggle();
+	});
+	$("input").on("click",function(){
+		$("#pTwo").toggle();
+	});
+	$("#pThree").call(function(e){
+		setInterval(function(){$(e).toggle()},500);
+	});
+};
+</script>
+</head>
+<body>
+<h1 class="title">Demo of sQuery</h1><br>
+<p id="pOne">Hello welcome to sQuery.</p><br>
+<p id="pTwo">The jQuery like library</p><br>
+<p id="pThree">You can customize its name!</p>
+<input type="button" value="Toggle"/>
+<script type="text/javascript">
+</script>
+</body>
+</html>
