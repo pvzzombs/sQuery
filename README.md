@@ -33,7 +33,8 @@ window.onload = function(){
 
 #### .html(string)
 ###### accepts a string
-###### changea the innerHTML of element to the specified string
+###### changes the innerHTML of element to the specified string
+###### returns the html of the selected element if param is empty
 
 #### .text(string)
 ###### accepts a string
@@ -53,3 +54,8 @@ window.onload = function(){
 #### .toggle()
 ###### toggles the current display of the element to either none or block
 
+#### .txt()
+###### returns the innerText of the selected element
+
+#### .val()
+###### returns the value of the selected element
