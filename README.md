@@ -22,6 +22,12 @@ function $(e){
 window.onload = function(){
     $(p).text("Hello");
 };
+
+// NOW sQuery v 1.1.1 and above now supports .ready() method
+
+sQuery(document).ready(function(){
+  //code here
+});
 ```
 
 <br />
