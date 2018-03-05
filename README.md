@@ -33,6 +33,10 @@ sQuery(document).ready(function(){
 <br />
 ### List of properties and methods
 
+#### .ready(function()...)
+###### executes a function once the DOM was ready
+###### best use with document
+
 #### .call(function(element)...)
 ###### accepts a function and then executes the function for the element selected.
 ###### the function must contain also a param that would accept the elements to come.
