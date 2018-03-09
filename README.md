@@ -1,5 +1,6 @@
 # sQuery
 sQuery - a mini library for selecting DOM elements
+<b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
 ### Usage
 <br />
@@ -69,3 +70,6 @@ sQuery(document).ready(function(){
 
 #### .val()
 ###### returns the value of the selected element
+
+#### .css(property,value)
+###### changes the assign style property to the element with the given value
