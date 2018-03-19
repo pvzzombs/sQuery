@@ -2,6 +2,10 @@
 sQuery - a mini library for selecting DOM elements
 <b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
+<i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/sQuery.js>sQuery v.1.2</a></i>
+<br />
+<i> Minified: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/squery.min.js"></a></i>
+  <br />
 ### Usage
 <br />
 <b><i>Step 1</i></b> Include simply the `sQuery.js` file in your html head tag.
@@ -32,6 +36,7 @@ sQuery(document).ready(function(){
 ```
 
 <br />
+
 ### List of properties and methods
 
 #### .ready(function()...)
