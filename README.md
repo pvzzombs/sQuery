@@ -2,9 +2,9 @@
 sQuery - a mini library for selecting DOM elements
 <b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
-<i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/sQuery.js>sQuery v.1.2</a></i>
+<i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/sQuery.js">sQuery v.1.2</a></i>
 <br />
-<i> Minified: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/squery.min.js"></a></i>
+<i> Minified: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/squery.min.js">squery.min.js v. 1.2</a></i>
   <br />
 ### Usage
 <br />
@@ -21,6 +21,8 @@ sQuery - a mini library for selecting DOM elements
 You can give it a name of your own. Like creating a new function constructor.
 
 ```javascript
+// sQuery v1.0
+
 function $(e){
     return new sQuery(e);
 }
