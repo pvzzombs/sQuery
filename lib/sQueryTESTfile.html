@@ -4,10 +4,7 @@
 <title>Test sQuery</title>
 <script type="text/javascript" src="sQuery.js"></script>
 <script type="text/javascript">
-function $(e){
-	return new sQuery(e);
-}
-window.onload = function(){
+$(document).ready(function(){
 	$("#pOne").on("mouseover",function(){
 		$(this).html("Tadaah!!");
 	});
@@ -23,7 +20,7 @@ window.onload = function(){
 	$("#pThree").call(function(e){
 		setInterval(function(){$(e).toggle()},500);
 	});
-};
+});
 </script>
 </head>
 <body>
