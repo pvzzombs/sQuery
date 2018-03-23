@@ -8,7 +8,7 @@ sQuery - a mini library for selecting DOM elements
   <br />
 ### Usage
 <br />
-<b><i>Step 1</i></b> Include simply the `sQuery.js` file in your html head tag.
+<b><i>Step 1</i></b>Include the `sQuery.js` file in your html head tag.
 
 ```html
 <head>
@@ -17,7 +17,7 @@ sQuery - a mini library for selecting DOM elements
 ```
 
 <br />
-<b><i>Step 2</i></b> Run the sQuery file after the window loads.
+<b><i>Step 2</i></b> Run the sQuery file after the documents or window loads.
 You can give it a name of your own. Like creating a new function constructor.
 
 ```javascript
@@ -45,7 +45,7 @@ sQuery(document).ready(function(){
 ###### executes a function once the DOM was ready
 ###### best use with document
 
-#### .call(function(element)...)
+#### .(function(element)...)
 ###### accepts a function and then executes the function for the element selected.
 ###### the function must contain also a param that would accept the elements to come.
 
