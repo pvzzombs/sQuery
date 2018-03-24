@@ -1,5 +1,6 @@
 # sQuery
 sQuery - a mini library for selecting DOM elements
+<br />
 <b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
 <i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/sQuery.js">sQuery v.1.2</a></i>
@@ -8,7 +9,7 @@ sQuery - a mini library for selecting DOM elements
   <br />
 ### Usage
 <br />
-<b><i>Step 1</i></b>Include the `sQuery.js` file in your html head tag.
+<b><i>Step 1</i></b> Include the `sQuery.js` file in your html head tag.
 
 ```html
 <head>
