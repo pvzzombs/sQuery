@@ -1,9 +1,12 @@
 # sQuery
 sQuery - a mini library for selecting DOM elements
 <br />
+
+[![CodeFactor](https://www.codefactor.io/repository/github/pvzzombs/squery/badge)](https://www.codefactor.io/repository/github/pvzzombs/squery)
+<br />
 <b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
-<i> Stable version: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.js">sQuery.js</a></i>
+<i> Stable version: 1.4 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.js">sQuery.js</a></i>
 <br />
 <i> Minified: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.min.js">sQuery.min.js</a></i>
   <br />
