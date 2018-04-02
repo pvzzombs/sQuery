@@ -3,9 +3,9 @@ sQuery - a mini library for selecting DOM elements
 <br />
 <b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
-<i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.js">sQuery.js v.1.3 + fix</a></i>
+<i> Stable version: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.js">sQuery.js + fix</a></i>
 <br />
-<i> Minified: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/Squery.min.js">sQuery.min.js v. 1.3 + fix</a></i>
+<i> Minified: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/Squery.min.js">sQuery.min.js + fix</a></i>
   <br />
 ### Usage
 <br />
@@ -46,7 +46,7 @@ sQuery(document).ready(function(){
 ###### executes a function once the DOM was ready
 ###### best use with document
 
-#### .(function(element)...)
+#### .call(function(element)...)
 ###### accepts a function and then executes the function for the element selected.
 ###### the function must contain also a param that would accept the elements to come.
 
