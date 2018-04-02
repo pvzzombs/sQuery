@@ -3,9 +3,9 @@ sQuery - a mini library for selecting DOM elements
 <br />
 <b> Note "sQuery" is just my remake of famous DOM selector ... </b>
 <br />
-<i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/sQuery.js">sQuery v.1.2</a></i>
+<i> Stable version: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.js">sQuery.js v.1.3 + fix</a></i>
 <br />
-<i> Minified: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/820bdc19c0a7f444ab0d8834b5b603f478c39b10/lib/squery.min.js">squery.min.js v. 1.2</a></i>
+<i> Minified: 1.2 - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/Squery.min.js">sQuery.min.js v. 1.3 + fix</a></i>
   <br />
 ### Usage
 <br />
