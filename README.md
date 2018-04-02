@@ -5,7 +5,7 @@ sQuery - a mini library for selecting DOM elements
 <br />
 <i> Stable version: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.js">sQuery.js</a></i>
 <br />
-<i> Minified: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/Squery.min.js">sQuery.min.js</a></i>
+<i> Minified: 1.3 + fix - <a href="https://cdn.rawgit.com/pvzzombs/sQuery/master/lib/sQuery.min.js">sQuery.min.js</a></i>
   <br />
 ### Usage
 <br />
