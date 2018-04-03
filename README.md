@@ -1,5 +1,6 @@
 # sQuery
 [![CodeFactor](https://www.codefactor.io/repository/github/pvzzombs/squery/badge)](https://www.codefactor.io/repository/github/pvzzombs/squery)
+[![HitCount](http://hits.dwyl.io/pvzzombs/sQuery.svg)](http://hits.dwyl.io/pvzzombs/sQuery)
 <br />
 sQuery - a mini library for selecting DOM elements
 <br />
