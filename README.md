@@ -31,7 +31,7 @@ function $(e){
     return new sQuery(e);
 }
 window.onload = function(){
-    $(p).text("Hello");
+    $("p").text("Hello");
 };
 
 // NOW sQuery v 1.1.1 and above now supports .ready() method
