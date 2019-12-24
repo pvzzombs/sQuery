@@ -36,7 +36,7 @@ window.onload = function(){
 
 // NOW sQuery v 1.1.1 and above now supports .ready() method
 
-sQuery(document).ready(function(){
+sQuery("document").ready(function(){
   //code here
 });
 ```
